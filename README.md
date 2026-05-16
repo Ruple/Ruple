@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a freelancer and a student.<br>🌱 I’m currently learning Dart.<br>💬 Ask me about anything but Hip Hop.<br>⚡ Fun fact: the national animal of Scotland is the unicorn.
+🔭 I’m currently a freelancer and a student. Based in Leuven, Belgium.
 
 
 # 💻 Tech Stack:
